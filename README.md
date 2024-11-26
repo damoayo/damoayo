@@ -6,7 +6,7 @@
 
 ```jsx
 const tarae = {
-	pronouns: "He" | "he",
+	pronouns: "He" | "him",
 	code: [Javascript, Typescript, Tailwind, CSS, HTML],
 	tools:[React,Zustand, NextJS, Styled-Components, Devexpress(devextreme), Figma],
 	architecture: ["microservices", "design system pattern"]
