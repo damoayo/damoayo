@@ -1,16 +1,14 @@
-## Hi there 👋
+# 😙Hi! Nice to see you
 
-<!--
-**damoayo/damoayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 안녕!
 
-Here are some ideas to get you started:
+### Welcome to my page!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```jsx
+const tarae = {
+	pronouns: "He" | "he",
+	code: [Javascript, Typescript, Tailwind, CSS, HTML],
+	tools:[React,Zustand, NextJS, Styled-Components, Devexpress(devextreme), Figma],
+	architecture: ["microservices", "design system pattern"]
+}
+```
