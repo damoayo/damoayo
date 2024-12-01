@@ -18,7 +18,7 @@ const tarae = {
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Devextreme](https://img.shields.io/badge/-Devextreme-FF00FF?style=flat-square&logo=Devextreme,)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -26,7 +26,8 @@ const tarae = {
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=damoayo&count_private=true&show_icons=true&include_all_commits=true)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+
 
 <br>
 **Talking about Personal Stuffs:**
@@ -40,6 +41,7 @@ const tarae = {
 - 📫 저에게 연락하는 방법: mamapai@naver.com; KakaoTalk : mamapai
 <br>
 
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=damoayo&count_private=true&show_icons=true&include_all_commits=true)
+<br>
 ![GitHub followers](https://img.shields.io/github/followers/damoayo)
 
