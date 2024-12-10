@@ -28,7 +28,8 @@ const tarae = {
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![PHP](https://img.shields.io/badge/-PHP-005571?style=flat-square&logo=PHP)
+![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=Wordpress)
 
 
 <br>
