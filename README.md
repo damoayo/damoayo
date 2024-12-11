@@ -7,8 +7,8 @@
 ```jsx
 const tarae = {
 	pronouns: "He" | "him",
-	code: [Javascript, Typescript, Tailwind, CSS, HTML],
-	tools:[React,Zustand, NextJS, Styled-Components, Devexpress(devextreme), Figma],
+	code: [Javascript, Typescript, python, PHP, HTML],
+	tools:[React, NextJS, Tailwind, Supabase, Devextreme, Wordpress],
 	architecture: ["microservices", "design system pattern"]
 }
 ```
