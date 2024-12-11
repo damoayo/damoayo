@@ -19,11 +19,11 @@ const tarae = {
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![NextJS](https://img.shields.io/badge/-NextJS-royalblue?style=flat-square&logo=NextJS)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=Supabase)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Devextreme](https://img.shields.io/badge/-Devextreme-FF00FF?style=flat-square&logo=Devextreme,)
-![NextJS](https://img.shields.io/badge/-NextJS-greenyellow?style=flat-square&logo=NextJS)
-![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=Supabase)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -37,9 +37,9 @@ const tarae = {
 
 - 👨🏽‍💻 현재 작업하는거에요. [작업중](https://github.com/damoayo/);
 - 🌱 현재 NextJS와 Supabase를 공부하고 있습니다.
-- 👯 다음과 같은 일에 협력하고 싶습니다. [Crawling ](https://github.com/damoayo/) 🤝;
-- 🤔 CSS는 실력이 잘 안느네요. 😭;
-- 💬 무엇이든 물어보시면, 기꺼이 도와드릴께요^^;
+- 👯 Crawling에 관심이 많아요. [Crawling ](https://github.com/damoayo/) 🤝;
+- 🤔 디자인은 참 어렵네요 😭;
+- 💬 무엇이든 문의주시면, 정성스런 답변을 드립니다 ^^;
 - ⚡️ 재미있는 사실: 저는 중어중문을 전공했고, 산림기능사와 조경기능사 자격증, 그리고 지게차/굴삭기 자격증도 가지고 있어요!.
 - 📫 저에게 연락하는 방법: mamapai@naver.com; KakaoTalk : mamapai
 <br>
