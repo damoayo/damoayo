@@ -4,7 +4,7 @@
 
 ### Welcome to my page!
 
-```jsx
+```js
 const tarae = {
 	pronouns: "He" | "him",
 	languages: [Javascript, Typescript, python, PHP, CSS, HTML],
