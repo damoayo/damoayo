@@ -20,7 +20,7 @@ const tarae = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![NextJS](https://img.shields.io/badge/-NextJS-royalblue?style=flat-square&logo=NextJS)
+![Next JS](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=Supabase)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Devextreme](https://img.shields.io/badge/-Devextreme-FF00FF?style=flat-square&logo=Devextreme,)
