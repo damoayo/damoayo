@@ -8,7 +8,7 @@
 const tarae = {
 	pronouns: "He" | "him",
 	languages: [Javascript, Typescript, python, PHP, CSS, HTML],
-	tools:[React, NextJS, Tailwind, Supabase, Devextreme, Wordpress],
+	tools:[React, NextJS, TailwindCSS, Supabase, Devextreme, Wordpress],
 	architecture: ["microservices", "design system pattern"]
 }
 ```
@@ -28,6 +28,7 @@ const tarae = {
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker&logoColor=2496ED)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-005571?style=flat-rounded&logo=PHP)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=Wordpress)
