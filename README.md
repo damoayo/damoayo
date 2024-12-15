@@ -2,17 +2,15 @@
 
 # 😙Hi! Nice to see you
 
-## 안녕!
-
 ### Welcome to my page!
 
 ```js
-const tarae = {
-	pronouns: "He" | "him",
-	languages: [Javascript, Typescript, python, PHP, CSS, HTML],
-	tools:[React, NextJS, TailwindCSS, Supabase, Devextreme, Wordpress],
-	architecture: ["microservices", "design system pattern"]
-}
+const Tarae = {
+  age : "love",
+  languages: ["Javascript", "Typescript", "Python", "PHP", "CSS", "HTML"],
+  tools: ["React", "NextJS", "TailwindCSS", "Supabase", "Devextreme", "Wordpress"],
+  architecture: ["microservices", "design system pattern"]
+};
 ```
 <br>
 ## ⚡ Technologies
