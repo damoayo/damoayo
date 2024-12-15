@@ -32,7 +32,7 @@ const tarae = {
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-005571?style=flat-rounded&logo=PHP)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=Wordpress)
-
+[![skillicons](https://skillicons.dev/icons?i=html,css,scss,javascript,wordpress)](https://skillicons.dev)
 
 <br>
 **Talking about Personal Stuffs:**
@@ -45,6 +45,7 @@ const tarae = {
 - ⚡️ 재미있는 사실: 저는 중어중문을 전공했고, 산림기능사와 조경기능사 자격증, 그리고 지게차/굴삭기 자격증도 가지고 있어요!.
 - 📫 저에게 연락하는 방법: mamapai@naver.com; KakaoTalk : mamapai
 <br>
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=damoayo&count_private=true&show_icons=true&include_all_commits=true)
 <br>
