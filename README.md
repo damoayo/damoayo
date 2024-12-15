@@ -5,7 +5,7 @@
 ### Welcome to my page!
 
 ```js
-const Tarae = {
+const tarae = {
   age : "love",
   languages: ["Javascript", "Typescript", "Python", "PHP", "CSS", "HTML"],
   tools: ["React", "NextJS", "TailwindCSS", "Supabase", "Devextreme", "Wordpress"],
