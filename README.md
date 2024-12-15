@@ -24,15 +24,20 @@ const tarae = {
 
 ## 🐸 Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 현재 작업하는거에요. [작업중](https://github.com/damoayo/);
 - 🌱 현재 NextJS와 Supabase를 공부하고 있습니다.
 - 👯 Crawling에 관심이 많아요. [Crawling ](https://github.com/damoayo/) 🤝;
 - 🤔 디자인은 참 어렵네요 😭;
 - 💬 무엇이든 문의주시면, 정성스런 답변을 드립니다 ^^;
 - ⚡️ 재미있는 사실: 저는 중어중문을 전공했고, 산림기능사와 조경기능사 자격증, 그리고 지게차/굴삭기 자격증도 가지고 있어요!.
-- 📫 저에게 연락하는 방법: mamapai@naver.com; KakaoTalk : mamapai <img src="./kakao.png" alt="kakaotalk 커버이미지" width="100%" />
+- 📫 저에게 연락하는 방법: mamapai@naver.com || <img src="./kakaotalk.png" alt="kakaotalk 커버이미지" width="24px" /> mamapai
 <br>
 
+## ☠👻💀현재 작업중 Repository
+
+- 🐥
+
+
+<br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=damoayo&count_private=true&show_icons=true&include_all_commits=true)
 <br>
