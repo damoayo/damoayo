@@ -24,7 +24,7 @@ const tarae = {
 
 ## 🐸 Talking about Personal Stuffs:**
 
-- 🌱 현재 NextJS와 Supabase를 공부하고 있습니다.
+- 🌱 현재 NextJS와 Supabase, Docker를 공부하고 있습니다.
 - 👯 Crawling에 관심이 많아요. [Crawling ](https://github.com/damoayo/) 🤝;
 - 🤔 디자인은 참 어렵네요 😭;
 - 💬 무엇이든 문의주시면, 정성스런 답변을 드립니다 ^^;
