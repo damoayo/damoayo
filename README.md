@@ -18,8 +18,7 @@ const tarae = {
 
 
 [![skillicons](https://skillicons.dev/icons?i=scss,javascript,react,typescript,next,tailwind,bootstrap,supabase,git,github,docker,python,php,wordpress)](https://skillicons.dev)
-![Devextreme](https://img.shields.io/badge/-Devextreme-FF00FF?style=flat-rounded&logo=DevExtreme&logoColor=white)
-<img src="./devextreme.png" alt="devextreme" width="24px" />
+<img src="./devextreme.png" alt="devextreme" width="48px" />
 
 <br>
 
