@@ -32,10 +32,11 @@ const tarae = {
 - 📫 저에게 연락하는 방법: mamapai@naver.com || <img src="./kakaotalk.png" alt="kakaotalk 커버이미지" width="24px" /> mamapai
 <br>
 
-## ☠👻💀현재 작업중 Repository
+## ☠ 현재 작업중 Repository 👻
 
-- 🐥
-
+- 🐥 DX-Cloud    /    [미리보기](https://dx-cloud-s2g5.vercel.app/)   /  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![Devextreme](https://img.shields.io/badge/-Devextreme-FF00FF?style=flat-rounded&logo=DevExtreme&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS)  / DevExtreme위주의 간단한 웹페이지 
+- 🐥 mamapaiBooks    /    [미리보기](https://)   /  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![Next JS](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS)  / NextJS(버전15) 위주의 서적 정보 제공 및 후기 작성과 공유를 위한 모바일 웹 플랫폼
+- 🐥 music_box    /    [미리보기](https://)   /  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![Next JS](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white)![zustand](https://img.shields.io/badge/-zustand-slategrey?style=flat-rounded&logo=zustand)  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS)![shadcn](https://img.shields.io/badge/-shadcn-royalblue?style=flat-rounded&logo=shadcn)![radixUI](https://img.shields.io/badge/-radixUI-coral?style=flat-rounded&logo=radixUI&logoColor=white) / NextJS(버전14) 위주의 YoutubeMusic 웹사이트
 
 <br>
 
