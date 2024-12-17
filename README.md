@@ -1,4 +1,4 @@
-<img src="./tarae.png" alt="Mamapai 커버이미지" width="100%" />
+<img src="./banner.png" alt="Mamapai 커버이미지" width="100%" />
 
 # 😙Hi! Nice to see you
 
