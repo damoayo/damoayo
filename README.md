@@ -16,11 +16,12 @@ const tarae = {
 
 ## ⚡ Technologies 
 
-
-[![skillicons](https://skillicons.dev/icons?i=scss,javascript,react,typescript,next,tailwind,bootstrap,supabase,git,github,docker,python,php,wordpress)](https://skillicons.dev)
-<img src="./devextreme.png" alt="devextreme" width="48px" />
-
-<br>
+[![skillicons](https://skillicons.dev/icons?i=next,react,tailwind,git,github)](https://skillicons.dev)&nbsp;
+▬▬▬▬▬▬▬▬▬▭ `Lv.9` <br>
+[![skillicons](https://skillicons.dev/icons?i=typescript,javascript,scss,bootstrap,wordpress)](https://skillicons.dev)&nbsp;
+▬▬▬▬▬▬▬▬▭▭ `Lv.8` ⇑ <br>
+[![skillicons](https://skillicons.dev/icons?i=supabase,python,php,docker)](https://skillicons.dev)&nbsp;<img src="./devextreme.png" alt="devextreme" width="48px" />&nbsp; 
+▬▬▬▬▬▬▬▭▭▭ `Lv.7` ⇈
 
 ## 🐸 Talking about Personal Stuffs:**
 
