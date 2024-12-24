@@ -12,7 +12,7 @@ const tarae = {
   architecture: ["microservices", "design system pattern"]
 };
 ```
-<br />
+
 
 ## ⚡ Technologies 
 
