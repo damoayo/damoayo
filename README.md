@@ -19,7 +19,7 @@ const tarae = {
 [![skillicons](https://skillicons.dev/icons?i=next,react,tailwind,git,github)](https://skillicons.dev)&nbsp;
 ▬▬▬▬▬▬▬▬▬▭ `Lv.9` <br>
 [![skillicons](https://skillicons.dev/icons?i=typescript,javascript,scss,bootstrap,wordpress)](https://skillicons.dev)&nbsp;
-▬▬▬▬▬▬▬▬▭▭ `Lv.8` ⇑ <br>
+▬▬▬▬▬▬▬▬▭▭ `Lv.8` ↑ <br>
 [![skillicons](https://skillicons.dev/icons?i=supabase,python,php,docker)](https://skillicons.dev)&nbsp;<img src="./devextreme.png" alt="devextreme" width="48px" />&nbsp; 
 ▬▬▬▬▬▬▬▭▭▭ `Lv.7` ⇈
 
