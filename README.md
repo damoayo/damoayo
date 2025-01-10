@@ -53,6 +53,7 @@ const tarae = {
 <br>
 
 ![GitHub followers](https://img.shields.io/github/followers/damoayo)
+<br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=damoayo)
 
-<br>
+
