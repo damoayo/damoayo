@@ -48,14 +48,17 @@ const tarae = {
 - 🐥 2024project-vite버전 / [미리보기](https://vite-2024project-3wbr.vercel.app/) <br> / - ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=Vite&logoColor=white)![Gsap](https://img.shields.io/badge/-Gsap-mazenda?style=flat-rounded&logo=Gsap)&nbsp;![Lenis](https://img.shields.io/badge/-Lenis-royalblue?style=flat-rounded&logo=Lenis&logoColor=white)![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=Vercel) <br> / 웹페이지를 4가지 Framework를 사용하여 4가지 버전으로 작업하는걸 목표로 한다. [작업중...](https://github.com/damoayo/vite-2024project)
 
 <br>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=damoayo&count_private=true&show_icons=true&include_all_commits=true)
+<br>
+
+![GitHub followers](https://img.shields.io/github/followers/damoayo)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=damoayo)
+
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 <br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=damoayo&count_private=true&show_icons=true&include_all_commits=true)
-<br>
-
-![GitHub followers](https://img.shields.io/github/followers/damoayo)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=damoayo)
