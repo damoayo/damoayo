@@ -26,7 +26,7 @@ const tarae = {
 ▬▬▬▬▬▬▬▬▭▭ `Lv.8` <br>
 [![skillicons](https://skillicons.dev/icons?i=typescript,javascript,scss,bootstrap,wordpress)](https://skillicons.dev)&nbsp;
 ▬▬▬▬▬▬▬▭▭▭ `Lv.7` ↑ <br>
-[![skillicons](https://skillicons.dev/icons?i=supabase,python,php,docker)](https://skillicons.dev)&nbsp;&nbsp;![devextreme](https://skills-icons.vercel.app/api/icons?i=devextreme)
+[![skillicons](https://skillicons.dev/icons?i=supabase,python,php,docker)](https://skillicons.dev)&nbsp;&nbsp;![devextreme](https://skills-icons.vercel.app/api/icons?i=devextreme)&nbsp;
 ▬▬▬▬▬▬▭▭▭▭ `Lv.6` ⇈
 
 ## 🐸 Talking about Personal Stuffs:\*\*
