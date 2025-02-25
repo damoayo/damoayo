@@ -26,12 +26,12 @@ const tarae = {
 ▬▬▬▬▬▬▬▬▭▭ `Lv.8` <br>
 [![skillicons](https://skillicons.dev/icons?i=typescript,javascript,scss,bootstrap,wordpress)](https://skillicons.dev)&nbsp;
 ▬▬▬▬▬▬▬▭▭▭ `Lv.7` ↑ <br>
-[![skillicons](https://skillicons.dev/icons?i=supabase,python,php,docker)](https://skillicons.dev)&nbsp;&nbsp;![devextreme](https://skills-icons.vercel.app/api/icons?i=devextreme)&nbsp;
+[![skillicons](https://skillicons.dev/icons?i=java,spring,supabase,python,php,docker)](https://skillicons.dev)&nbsp;&nbsp;![devextreme](https://skills-icons.vercel.app/api/icons?i=devextreme)&nbsp;
 ▬▬▬▬▬▬▭▭▭▭ `Lv.6` ⇈
 
 ## 🐸 Talking about Personal Stuffs:\*\*
 
-- 🌱 현재 NextJS와 Supabase, Docker를 공부하고 있습니다.
+- 🌱 현재 Java를 열공하고 있습니다.^^
 - 👯 요즘 성능최적화에 관심이 많아요. github의 Actions과의 연계기능도 관심이 많아요 🤝;
 - 🤔 디자인은 참 어렵네요 😭;
 - 💬 무엇이든 문의주시면, 정성스런 답변을 드립니다 ^^;
