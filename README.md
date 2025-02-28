@@ -7,14 +7,11 @@
 ```js
 const tarae = {
   age: "love",
-  languages: ["Javascript", "Typescript", "Python", "PHP", "CSS", "HTML"],
+  languages: ["Javascript", "Java" ],
   tools: [
     "React",
     "NextJS",
-    "TailwindCSS",
-    "Supabase",
-    "Devextreme",
-    "Wordpress",
+    "Spring",
   ],
   architecture: ["microservices", "design system pattern"],
 };
@@ -24,9 +21,9 @@ const tarae = {
 
 [![skillicons](https://skillicons.dev/icons?i=next,react,tailwind,git,github)](https://skillicons.dev)&nbsp;
 ▬▬▬▬▬▬▬▬▭▭ `Lv.8` <br>
-[![skillicons](https://skillicons.dev/icons?i=typescript,javascript,scss,bootstrap,wordpress)](https://skillicons.dev)&nbsp;
+[![skillicons](https://skillicons.dev/icons?i=typescript,javascript,bootstrap)](https://skillicons.dev)&nbsp;
 ▬▬▬▬▬▬▬▭▭▭ `Lv.7` ↑ <br>
-[![skillicons](https://skillicons.dev/icons?i=java,spring,supabase,python,php,docker)](https://skillicons.dev)&nbsp;&nbsp;![devextreme](https://skills-icons.vercel.app/api/icons?i=devextreme)&nbsp;
+[![skillicons](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;
 ▬▬▬▬▬▬▭▭▭▭ `Lv.6` ⇈
 
 ## 🐸 Talking about Personal Stuffs:\*\*
