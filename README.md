@@ -20,11 +20,11 @@ const tarae = {
 ## ⚡ Technologies
 
 [![skillicons](https://skillicons.dev/icons?i=next,react,tailwind,git,github)](https://skillicons.dev)&nbsp;
-▬▬▬▬▬▬▬▬▭▭ `Lv.8` <br>
-[![skillicons](https://skillicons.dev/icons?i=typescript,javascript,bootstrap)](https://skillicons.dev)&nbsp;
-▬▬▬▬▬▬▬▭▭▭ `Lv.7` ↑ <br>
-[![skillicons](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;
-▬▬▬▬▬▬▭▭▭▭ `Lv.6` ⇈
+ <br>
+[![skillicons](https://skillicons.dev/icons?i=typescript,javascript,bootstrap,java,spring)](https://skillicons.dev)&nbsp;
+
+
+
 
 ## 🐸 Talking about Personal Stuffs:\*\*
 
