@@ -28,7 +28,7 @@ const tarae = {
 
 ## 🐸 Talking about Personal Stuffs:\*\*
 
-- 🌱 현재 Java를 열공하고 있습니다.^^
+- 🌱 현재 Java를 열공하고 있고, 간단한 Landing page를 만들고 있습니다.(Nextjs,Tailwind css)
 - 👯 요즘 성능최적화에 관심이 많아요. github의 Actions과의 연계기능도 관심이 많아요 🤝;
 - 🤔 디자인은 참 어렵네요 😭;
 - 💬 무엇이든 문의주시면, 정성스런 답변을 드립니다 ^^;
