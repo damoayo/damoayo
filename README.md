@@ -12,6 +12,7 @@ const tarae = {
     "React",
     "NextJS",
     "Spring",
+    "JPA",
   ],
   architecture: ["microservices", "design system pattern"],
 };
