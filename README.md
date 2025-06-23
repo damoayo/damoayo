@@ -11,7 +11,7 @@ const tarae = {
   tools: [
     "React",
     "NextJS",
-    "Spring",
+    "Spring Boot",
     "JPA",
   ],
   architecture: ["microservices", "design system pattern"],
